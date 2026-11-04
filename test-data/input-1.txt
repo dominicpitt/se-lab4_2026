@@ -1,0 +1,4 @@
+# 1 hajo aminek 1 lövedéke van és 2 ször fog lőni
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # should have fired from the primary store
+TORPEDO,SINGLE  # should fail, cuz no more torpedo

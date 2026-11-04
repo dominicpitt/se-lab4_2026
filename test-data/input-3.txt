@@ -1,0 +1,5 @@
+# hajó aminek a jobb oldalába 2 torpedo van a másikba pedig egy sincs
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
